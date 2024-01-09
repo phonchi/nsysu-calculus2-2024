@@ -1,6 +1,6 @@
 ---
 type: exam
-date: 2022-04-14
+date: 2024-04-11
 description: 'Midterm Exam'
 hide_from_announcments: true
 ---

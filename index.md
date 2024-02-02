@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-Please see the course syllabus [here](/nsysu-nsysu-calculus2/static_files/presentations/course_outline.pdf).
+Please see the course syllabus [here](/nsysu-calculus2/static_files/presentations/course_outline.pdf).
 
 Join our [Facebook Group](https://www.facebook.com/groups/3813950798826853) to discuss courses and get the timely notification.
 

@@ -18,13 +18,12 @@ permalink: /materials/
 * [https://www.geogebra.org/](https://www.geogebra.org/)
 
 ## Resources
-* [微積分(蔡雅如老師)](https://www.youtube.com/channel/UC1T7X8YcmtKpJ-vwtQk3DbA/playlists)
-* [微積分(莊重老師)](https://www.youtube.com/playlist?list=PL36601F252C5D7332)
+* [微積分(莊重老師)](https://www.youtube.com/playlist?list=PLj6E8qlqmkFv-kcqx88N4wUk4oLU3fSOk)
 * [微積分(李國偉老師)](http://www.math.ncue.edu.tw/~kwlee/107CalculusStewart8E.html)
+* [微積分(翁秉仁老師)](https://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/103S121)
 * [微積分總棟員](https://sites.google.com/site/calculusteaching/home/calculus?authuser=0)
 * [微積分(黃文璋老師)](https://www.stat.nuk.edu.tw/cbme/math/calculus/)
 * [微積分(朱樺老師)](http://www.math.ntu.edu.tw/~hchu/Calculus/)
-* [微積分(齊震宇老師)](http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/104S115)
 * [微積分(顏國勇老師)](http://www.math.ncku.edu.tw/~library/e-book/Calculus2014.pdf)
 
 ## Blogs

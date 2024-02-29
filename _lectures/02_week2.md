@@ -11,3 +11,4 @@ links:
 **Suggested Readings:**
 - [[Test and Power Series]](/nsysu-calculus2/static_files/presentations/Test_power_series.pdf)
 - [[Recorded video]](https://www.youtube.com/playlist?list=PLHNZtBNWQ-84VST4y-zK7QCeAVmx6KjNF)
+- Chapter 9.3~9.5

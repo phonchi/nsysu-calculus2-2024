@@ -15,4 +15,4 @@ links:
 **Suggested Readings:**
 - [[chapter 9 summary slides (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus2/static_files/presentations/Chap09_Summary.pdf)
 - [[chapter 9 summary slides_chinese (courtesy of professor Fu-Chuen Chang)]](/nsysu-calculus2/static_files/presentations/chap09_Summary_Chinese.pdf)
-- Chapter 9
+- Chapter 9.1~9.2

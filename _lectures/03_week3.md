@@ -9,4 +9,5 @@ links:
       
 ---
 **Suggested Readings:**
+- [[Recorded video]](https://www.youtube.com/playlist?list=PLHNZtBNWQ-85oQ80swx4zYd04NWQ_ielZ)
 - Chapter 9.6~9.8

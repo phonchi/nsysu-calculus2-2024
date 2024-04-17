@@ -8,6 +8,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/presentations/Calculus_Chapter12.pdf
       name: Chapter 12 slides
+    - url: /static_files/presentations/Midterm_sol.pdf
+      name: Reference midterm solution
       
 ---
 **Suggested Readings:**

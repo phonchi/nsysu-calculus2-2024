@@ -13,7 +13,7 @@ links:
       
 ---
 **Suggested Readings:**
-- [[chapter 12 summary slides (courtesy of professor Fu-Chuen Chang)](/nsysu-calculus2/static_files/presentations/Chap12_Summary.pdf)]
-- [[Surface in space](/nsysu-calculus2/static_files/presentations/Surface.pdf)]
+- [[chapter 12 summary slides (courtesy of professor Fu-Chuen Chang)](/nsysu-calculus2-2024/static_files/presentations/Chap12_Summary.pdf)]
+- [[Surface in space](/nsysu-calculus2-2024/static_files/presentations/Surface.pdf)]
 - [[Recorded video]](https://www.youtube.com/playlist?list=PLHNZtBNWQ-84uyH6u7b521GGMCNA7_gzX)
 - Chapter 11.7, 12.1 and 12.2
